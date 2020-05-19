@@ -1,7 +1,9 @@
-# Reinforcement-Learning
+# Implementation of Mosaic Data Augmentation in YOLOv4
 
-This repository is for studying Reinforment Learning.
+This project implements Mosaic Data Augmentation in YOLOv4.
 
-Oct. 2019
+Created data will be saved as new data.
+
+May 2020
 
 Tran Le Anh
